@@ -1,1 +1,1 @@
-prometheus/alertmanager:0.27.0
+alertmanager:0.27.0
